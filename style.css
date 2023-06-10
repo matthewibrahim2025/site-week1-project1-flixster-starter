@@ -1,1 +1,145 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
 
+body {
+    background-color: #2e7b86;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    padding: 20px;
+}
+
+
+#title {
+    text-align: center;
+}
+
+
+#img-cont-srch {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(200px, 1fr));
+    grid-gap: 20px;
+    grid-row-gap: 40px; /* Increase the gap at the bottom */
+}
+
+#img-cont-curr {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(200px, 1fr));
+    grid-gap: 20px;
+    grid-row-gap: 50px; /* Increase the gap at the bottom */
+}
+
+
+#img-cont-srch img {
+    width: 80%;
+    height: 95%;
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    transition: 0.5s ease;
+}
+
+
+#img-cont-curr img {
+    width: 80%;
+    height: 95%;
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    transition: 0.5s ease;
+}
+
+
+#search-form {
+    text-align: center;
+    /* padding-top: 20px; */
+    padding-bottom: 20px;
+}
+
+#search-input {
+    width: 430px;
+
+
+
+}
+
+input[type="text"] {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    font-size: 16px;
+  }
+  
+button[type="submit"] {
+    padding: 10px 20px;
+    background-color: #2c1111;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+button[type="submit"]:hover {
+    background-color: #3f1c1c;  
+}
+
+#movie-title {
+    font-weight: bold;
+}
+
+
+#load-more-container {
+    /* background-color: #2c1111; */
+    color: white; 
+    border: none;
+    border-radius: 5px; 
+    font-size: 24px; 
+    cursor: pointer;
+    transition: 0.3s ease; 
+    text-align: center;
+    padding: 28px;
+    
+} 
+
+#load-more-movies-btn {
+    background-color: #2c1111;
+    font-size: 40px;
+    color: white ;
+    transition: background-color 0.3s ease;
+    border-radius: 15px;
+    position: relative;
+    top: 20px;
+} 
+
+#load-more-text {
+    font-size: 24px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+#now-playing {
+    text-align: left;
+    position: relative;
+    top: 10px;
+    font-size: 20px;
+}
+
+#close-search-btn {
+    padding: 10px 20px;
+    background-color: #2c1111;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    position: absolute;
+    top: 85px;
+    right: 80px;
+}
