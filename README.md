@@ -6,7 +6,7 @@ Submitted by: Matthew Ibrahim
 
 Estimated time spent: 10 hours spent in total
 
-Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
+Deployed Application (optional): [Flixster Deployed Site](https://matthewibrahim2025.github.io/site-week1-project1-flixster-starter/)
 
 ### Application Features
 
@@ -42,29 +42,27 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 ### Walkthrough Video
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, ![Flix Walkthrough](https://github.com/matthewibrahim2025/site-week1-project1-flixster-starter/assets/105619742/cc23dff9-b0f4-4b62-8bc8-4b45140cc343) . Make sure the video or gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
-
-
+![Flix Walkthrough](https://github.com/matthewibrahim2025/site-week1-project1-flixster-starter/assets/105619742/cc23dff9-b0f4-4b62-8bc8-4b45140cc343) 
 
 
 ### Reflection
 
 - Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+Yes, this week prepared me very well. To be specific, the query selector showed up and the way to fetch and API also showed up, so I felt very good about that.
 
 - If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+If I had more time I would have optimized and encapsulated my functions further as I do not feel as if my code is scalable and encapsulated well enough.
 
 - Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+I think everything went well overall. I had a few bugs here and there but I was able to fix this well. I noticed that my peer had made his design really well so I want to work on that next time.
 
 ### Open-source libraries used
 
-- Add any links to open-source libraries used in your project.
+- N/A
 
 ### Shout out
 
-Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
+- N/A
