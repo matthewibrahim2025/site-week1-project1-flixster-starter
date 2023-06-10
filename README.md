@@ -45,6 +45,7 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 `TODO://` Add the embedded URL code to your animated app walkthrough below, [](https://drive.google.com/file/d/10VPJZea0ILKDerr9dpBm0dFggMeKt5WM/view?usp=sharing). Make sure the video or gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
 
 
+![Flixster_Project_Walkthrough_AdobeExpress](https://github.com/matthewibrahim2025/site-week1-project1-flixster-starter/assets/105619742/bb5f0bf1-946e-4a64-8739-c6f1deb3866e)
 
 
 
